@@ -27,7 +27,7 @@ pip install streamlit
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/yourusername/fruit-veg-classification.git
+   git clone https://github.com/tanishqa11/Fruits_and_vegetable_recognition_with_calories_count
    cd fruit-veg-classification
    ```
    
